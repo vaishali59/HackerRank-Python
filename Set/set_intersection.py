@@ -1,0 +1,6 @@
+n1=input()
+s1=set(input().split())
+n2=input()
+s2=set(input().split())
+#print(s1.intersection(s2))
+print(len(s1.intersection(s2)))
